@@ -9,5 +9,7 @@ I'm passionate about programming, technology, and building cool things. I enjoy 
 **»** Open to collaborating on interesting projects
 **»** I love exploring new technologies and finding better ways to solve problems
 
+---
+
 **Discord:** `salzyr`
 📩 Feel free to reach out if you want to collaborate, discuss programming, or just talk about tech!
