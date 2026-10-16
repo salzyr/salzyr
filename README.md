@@ -1,16 +1,13 @@
-## Hi there 👋
+Welcome to my GitHub profile! 
+I'm passionate about programming, technology, and building cool things. I enjoy learning new skills, experimenting with different technologies, and turning ideas into reality.
 
-<!--
-**salzyr/salzyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
+**»** Currently learning **Rust**
+**»** My goal is to continuously improve my coding skills
+**»** Open to collaborating on interesting projects
+**»** I love exploring new technologies and finding better ways to solve problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Discord:** `salzyr`
+📩 Feel free to reach out if you want to collaborate, discuss programming, or just talk about tech!
